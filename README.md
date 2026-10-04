@@ -12,3 +12,10 @@
   <sub>I've got red in my ledger.</sub>
 </p>
 
+
+
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=0rmnff&label=PROFILE+VIEWS&color=blue&style=flat-square" alt="Profile Views">
+</p>
