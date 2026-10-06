@@ -1,5 +1,5 @@
 <p align="center" style="font-family: 'Georgia', 'Times New Roman', serif; font-size: 24px; letter-spacing: 1px;">
-  It's okay.
+ 𝐼𝓉'𝓈 𝑜𝓀𝒶𝓎.
 </p>
 
 
@@ -9,13 +9,10 @@
   </a>
 </p>
 <p align="center">
-  <sub>I've got red in my ledger.</sub>
+  <sub>𝐼'𝓋𝑒 𝑔𝑜𝓉 𝓇𝑒𝒹 𝒾𝓃 𝓂𝓎 𝓁𝑒𝒹𝑔𝑒𝓇.
+</sub>
 </p>
 
 
 
 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0rmnff&label=PROFILE+VIEWS&color=blue&style=flat-square" alt="Profile Views">
-</p>
